@@ -21,7 +21,7 @@ import {Button} from "reactstrap"
 //         );
 //     }
 
-// } /*end class brackets*/
+// } /*end class brackets */
 const Person=({name,family,age})=>{
     return(
         <p>
