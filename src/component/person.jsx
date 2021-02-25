@@ -21,7 +21,7 @@ import {Button} from "reactstrap"
 //         );
 //     }
 
-// } /*end class brackets y*/
+// } /*end class brackets y for test resedfgidsft head*/
 const Person=({name,family,age})=>{
     return(
         <p>
